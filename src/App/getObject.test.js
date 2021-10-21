@@ -21,6 +21,7 @@ function myForEach(items, callback) {
 }
 
 
+
 // myForEach(arr, myMockCallback)
 // console.log(myMockCallback.mock.calls)
 
